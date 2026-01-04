@@ -1,3 +1,3 @@
-module joken-ia
+module github.com/danyukod/joken-ia
 
-go 1.25
+go 1.25.5

@@ -1,8 +1,8 @@
 package services
 
 import (
-	"joken-ia/internal/core/domain"
-	"joken-ia/internal/core/ports"
+	"github.com/danyukod/joken-ia/internal/core/domain"
+	"github.com/danyukod/joken-ia/internal/core/ports"
 )
 
 type gameService struct {

@@ -1,9 +1,10 @@
 package ai
 
 import (
-	"joken-ia/internal/core/domain"
 	"math/rand"
 	"time"
+
+	"github.com/danyukod/joken-ia/internal/core/domain"
 )
 
 type randomAI struct{}

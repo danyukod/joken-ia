@@ -1,6 +1,6 @@
 package ports
 
-import "joken-ia/internal/core/domain"
+import "github.com/danyukod/joken-ia/internal/core/domain"
 
 type GameService interface {
 	Play(playerChoice domain.Choice) (domain.Round, error)

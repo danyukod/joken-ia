@@ -2,9 +2,10 @@ package handlers
 
 import (
 	"fmt"
-	"joken-ia/internal/core/domain"
-	"joken-ia/internal/core/ports"
 	"strings"
+
+	"github.com/danyukod/joken-ia/internal/core/domain"
+	"github.com/danyukod/joken-ia/internal/core/ports"
 )
 
 type CLIHandler struct {

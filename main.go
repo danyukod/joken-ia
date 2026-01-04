@@ -1,9 +1,9 @@
 package main
 
 import (
-	"joken-ia/internal/adapters/ai"
-	"joken-ia/internal/adapters/handlers"
-	"joken-ia/internal/core/services"
+	"github.com/danyukod/joken-ia/internal/adapters/ai"
+	"github.com/danyukod/joken-ia/internal/adapters/handlers"
+	"github.com/danyukod/joken-ia/internal/core/services"
 )
 
 func main() {
